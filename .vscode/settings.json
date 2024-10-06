@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "stdio.h": "c",
+        "funcoes.h": "c",
+        "random": "c",
+        "functional": "c",
+        "helpers.h": "c"
+    },
+    "editor.tabSize": 4
+}
